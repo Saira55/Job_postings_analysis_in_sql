@@ -1,7 +1,5 @@
 # 📊 Job Postings Analysis in SQL
 
-<img width="1680" height="945" alt="What_is_SQL_Database png" src="https://github.com/user-attachments/assets/b6a86486-ff4c-44ca-9eda-d25d52fac6b5" />
-
 ![Banner Image](What_is_SQL_Database.png.webp)
 
 ![SQL](https://img.shields.io/badge/SQL-Database-red)
@@ -14,6 +12,7 @@
 Write your introduction paragraph here detailing the scope and background of your project...
 
 * [Introduction](#-introduction)
-* [Query Examples](#-query-examples)
-* [Key Findings](#-key-findings)
+* [Tools I used](#-Tools I used)
+* [Database Schema](#-Database Schema)
+* [The Analysis](#-The Analysis)
 
