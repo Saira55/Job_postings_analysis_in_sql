@@ -12,7 +12,7 @@
 Write your introduction paragraph here detailing the scope and background of your project...
 
 * [Introduction](#-introduction)
-* [Tools I used](#-Tools I used)
-* [Database Schema](#-Database Schema)
-* [The Analysis](#-The Analysis)
+* [Tools I used](#-Tools-I-used)
+* [Database Schema](#-Database-Schema)
+* [The Analysis](#-The-Analysis)
 
