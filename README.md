@@ -7,12 +7,17 @@
 ![Database](https://img.shields.io/badge/Database-Structure-brightgreen)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-purple)
 
-## 🚀 Introduction
-
-Write your introduction paragraph here detailing the scope and background of your project...
-
 * [Introduction](#-introduction)
 * [Tools I used](#-Tools-I-used)
 * [Database Schema](#-Database-Schema)
 * [The Analysis](#-The-Analysis)
 
+## 🚀 Introduction
+
+Welcome to job postings analysis project. In this project, I will explore the highest paying jobs, the skills required for theses jobs and 
+
+## 🛠️ Tools I used
+
+* PostgreSQL
+* Jupyter Notebook
+* GitHub
