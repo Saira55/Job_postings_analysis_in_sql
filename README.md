@@ -21,3 +21,7 @@ Welcome to job postings analysis project. In this project, I will explore the hi
 * PostgreSQL
 * Jupyter Notebook
 * GitHub
+
+## 🗄️ Database Schema
+
+## 📊 The Analysis
