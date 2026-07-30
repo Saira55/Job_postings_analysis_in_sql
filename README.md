@@ -2,10 +2,6 @@
 
 ![Banner Image](C:\Users\Uzma\Downloads\What_is_SQL_Database.png)
 
-# 📊 US Data Analyst Jobs Analysis Using SQL
-
-![Banner Image](path/to/your/banner-image.png)
-
 ![SQL](https://img.shields.io/badge/SQL-Database-red)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insights-blue)
 ![Database](https://img.shields.io/badge/Database-Structure-brightgreen)
