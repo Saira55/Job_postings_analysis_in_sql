@@ -15,3 +15,7 @@
 
 Write your introduction paragraph here detailing the scope and background of your project...
 
+* [Introduction](#-introduction)
+* [Query Examples](#-query-examples)
+* [Key Findings](#-key-findings)
+
