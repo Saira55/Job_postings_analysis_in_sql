@@ -1,6 +1,7 @@
 # 📊 Job Postings Analysis in SQL
 
-![Banner Image](C:\Users\Uzma\Downloads\What_is_SQL_Database.png)
+<img width="1680" height="945" alt="What_is_SQL_Database png" src="https://github.com/user-attachments/assets/b6a86486-ff4c-44ca-9eda-d25d52fac6b5" />
+
 
 ![SQL](https://img.shields.io/badge/SQL-Database-red)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Insights-blue)
