@@ -24,4 +24,9 @@ Welcome to job postings analysis project. In this project, I will explore the hi
 
 ## 🗄️ Database Schema
 
+## 🗄️ Database Schema
+
+![Database Schema](Job%20Postings%20Data%20Warehouse%20Schema.jpg)
+
+
 ## 📊 The Analysis
